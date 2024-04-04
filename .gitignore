@@ -1,0 +1,11 @@
+node_modules
+# Elastic Beanstalk Files
+<<<<<<< HEAD
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+=======
+#.elasticbeanstalk/*
+#!.elasticbeanstalk/*.cfg.yml
+#!.elasticbeanstalk/*.global.yml
+>>>>>>> dfd3120645505bae54c18201e9c5933cccd4be3e
